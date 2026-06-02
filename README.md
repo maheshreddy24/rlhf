@@ -4,8 +4,8 @@ Note: This repository is currently under active development. Its goal is to prov
 
 The repository currently includes implementations for:
 
-Supervised Fine-Tuning (SFT)
-Reward Model Training
-RLHF Training Pipeline
+Supervised Fine-Tuning (SFT) \n
+Reward Model Training \n
+RLHF Training Pipeline \n
 
 Additional features, improvements, and documentation are being added as development progresses.
