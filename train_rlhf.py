@@ -1,1 +1,0 @@
-# [NOTE]: This file will initate all the files,
